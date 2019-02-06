@@ -1,0 +1,23 @@
+.skilltitle {
+    text-align: right;
+    font-weight: 600;
+    padding-right: 0px;
+}
+.progress {
+    border-radius: 0px;
+    height: 15px;
+    margin-top: 5px;
+    background-color: #D6D6D6;
+}
+.progress .progress-bar {
+    background-color: #CC4646;
+}
+
+@media (max-width: 768px) {
+    .skilltitle {
+        text-align: left;
+    }
+    #timeline {
+        margin:0px 12px;
+    }
+}

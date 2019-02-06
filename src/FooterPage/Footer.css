@@ -1,0 +1,21 @@
+.socialIcons li {
+    list-style: none;
+    display: inline;
+    margin-right: 6px;
+}
+
+footer {
+    border-top: 1px solid #e5e5e5;
+    padding: 45px 0;
+    background: #fff;
+}
+
+.social a:hover {
+    color: #c0392b;
+}
+
+.social a {
+    font-size: 32px;
+    margin: 0 10px;
+    color: #c7c7c7;
+}

@@ -7,7 +7,7 @@ class Quote extends Component {
             <section id="quote" className="bg-parlex">
                 <div className="parlex-back">
                     <div className="container secPad text-center">
-                        <h2>If I asked people what they wanted, they would have said ‘Faster Horses’.</h2><h3>-Henry Ford</h3>
+                        <h2>"Construiremos con código nuestro propio universo"</h2><h3>-Pioneras Developers</h3>
                     </div>
                 </div>
             </section>

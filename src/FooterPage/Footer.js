@@ -7,14 +7,14 @@ class Footer extends Component {
             <footer>
                 <div className="container">
                     <div className="social text-center">
-                        <a href="#"><i className="fa fa-twitter"></i></a>
-                        <a href="#"><i className="fa fa-facebook"></i></a>
-                        <a href="#"><i className="fa fa-dribbble"></i></a>
-                        <a href="#"><i className="fa fa-flickr"></i></a>
-                        <a href="#"><i className="fa fa-github"></i></a>
+                        <a href="#"><i className="fab fa-twitter"/></a>
+                        <a href="#"><i className="fab fa-facebook"/></a>
+                        <a href="#"><i className="fab fa-dribbble"/></a>
+                        <a href="#"><i className="fab fa-flickr"/></a>
+                        <a href="#"><i className="fab fa-github"/></a>
                     </div>
 
-                    <div className="clear"></div>
+                    <div className="clear"/>
                 </div>
             </footer>
         )

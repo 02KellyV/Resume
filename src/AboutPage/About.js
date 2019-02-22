@@ -15,21 +15,21 @@ class About extends Component {
                     </div>
                     <div className="row">
                         <div className="col-md-4 text-center tileBox">
-                            <div className="txtHead"><i className="fa fa-desktop"></i>
+                            <div className="txtHead"><i className="fab fa-react" style={{color: 'blue'}}/>
                                 <h3>React <span className="id-color"> JS</span></h3></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt
                                 volutpat. Cras eget augue id dui varius pretium.</p>
                         </div>
 
                         <div className="col-md-4 text-center tileBox">
-                            <div className="txtHead"><i className="fa fa-css3"></i>
+                            <div className="txtHead"><i className="fab fa-angular" style={{color: 'red'}}/>
                                 <h3>Angular<span className="id-color"> Dev</span></h3></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt
                                 volutpat. Cras eget augue id dui varius pretium.</p>
                         </div>
 
                         <div className="col-md-4 text-center tileBox">
-                            <div className="txtHead"><i className="fa fa-lightbulb-o"></i>
+                            <div className="txtHead"><i className="fab fa-node-js" style={{color: 'green'}}/>
                                 <h3> Node <span className="id-color"> JS</span></h3></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt
                                 volutpat. Cras eget augue id dui varius pretium.</p>
@@ -41,21 +41,21 @@ class About extends Component {
                     </div>
                     <div className="row">
                         <div className="col-md-4 text-center tileBox">
-                            <div className="txtHead"><i className="fa fa-desktop"></i>
+                            <div className="txtHead">
                                 <h3>LoRa <span className="id-color"> WAN</span></h3></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt
                                 volutpat. Cras eget augue id dui varius pretium.</p>
                         </div>
 
                         <div className="col-md-4 text-center tileBox">
-                            <div className="txtHead"><i className="fa fa-css3"></i>
+                            <div className="txtHead">
                                 <h3>IEEE<span className="id-color"> 802.15.9</span></h3></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt
                                 volutpat. Cras eget augue id dui varius pretium.</p>
                         </div>
 
                         <div className="col-md-4 text-center tileBox">
-                            <div className="txtHead"><i className="fa fa-lightbulb-o"></i>
+                            <div className="txtHead">
                                 <h3> Zig<span className="id-color">Bee</span></h3></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt
                                 volutpat. Cras eget augue id dui varius pretium.</p>
